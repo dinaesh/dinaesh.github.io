@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(41, 41, 41);
+}
+h1 {
+  text-decoration: underline;
+  color: rgb(144, 144, 144);
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: rgb(144, 144, 144);
+  margin-top: 1px;
+  font-size: x-large;
+  background-color: black;
+}
+h3 {
+  text-align: center;
+  color: rgb(144, 144, 144);
+  margin-top: 40px;
+  font-size: x-large;
+}
+
+#cof {
+  text-align: center;
+  margin-top: 30px;
+}
+h2 {
+  text-align: center;
+  color: rgb(144, 144, 144);
+  margin-top: 4px;
+  font-size: x-large;
+}
+#me {
+  text-align: center;
+  margin-top: 40px;
+}
